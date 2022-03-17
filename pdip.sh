@@ -18,7 +18,7 @@ echo -e "${wh}i${bl}...${rd}dddppp${bl}...................${rd}pppppdddddd${bl}.
 echo -e "${wh}dp${bl}..........................${rd}pddddddddddp${bl}..${wh}pd"
 echo -e "${wh}dpd${bl}.................${wh}pppp${bl}....${rd}pdddddddddp${bl}..${wh}dpd"
 echo -e "${wh}ddpd${bl}...............${wh}pipiip${bl}...${rd}dddddddddp${bl}..${wh}dpdd"
-echo -e "${wh}ddddpp${bl}...............${wh}p${bl}......${rd}dddddddp${bl}..${wh}ppdddd"
+echo -e "${wh}ddddpp${bl}...............${wh}pp${bl}.....${rd}dddddddp${bl}..${wh}ppdddd"
 echo -e "${wh}dddddppp${bl}....................${rd}ddddpp${bl}..${wh}pppddddd"
 echo -e "${wh}dddddddppd${bl}..................${rd}ppp${bl}...${wh}dppddddddd"
 echo -e "${wh}ddddddddddppdp${bl}................${wh}pdppdddddddddd"
